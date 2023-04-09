@@ -4,15 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5a27c4a3-6fc7-4ead-9d4b-495a98b7d943" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CoreJavaOperatorsNumbers.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java_operatorsNumbers/Main.java" afterDir="false" />
+    <list default="true" id="5a27c4a3-6fc7-4ead-9d4b-495a98b7d943" name="Changes" comment="Started on the CoreJavaBasics Operators and Numbers">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/perscholas/java_operatorsNumbers/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/perscholas/java_operatorsNumbers/exercise1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/perscholas/java_operatorsNumbers/exercise1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,7 +34,8 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "/home/ahm545/IdeaProjects/CoreJavaOperatorsNumbers"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -51,6 +47,18 @@
       <option name="presentableId" value="Default" />
       <updated>1680818461281</updated>
     </task>
+    <task id="LOCAL-00001" summary="Started on the CoreJavaBasics Operators and Numbers">
+      <created>1680823679336</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1680823679336</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Started on the CoreJavaBasics Operators and Numbers" />
+    <option name="LAST_COMMIT_MESSAGE" value="Started on the CoreJavaBasics Operators and Numbers" />
   </component>
 </project>
